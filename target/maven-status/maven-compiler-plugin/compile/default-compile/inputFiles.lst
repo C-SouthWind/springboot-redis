@@ -1,0 +1,13 @@
+F:\IdeaWork\20200324-redis\src\main\java\com\chj\controller\BookController.java
+F:\IdeaWork\20200324-redis\src\main\java\com\chj\model\Book.java
+F:\IdeaWork\20200324-redis\src\main\java\com\chj\model\BookCat.java
+F:\IdeaWork\20200324-redis\src\main\java\com\chj\config\RedisConfig.java
+F:\IdeaWork\20200324-redis\src\main\java\com\chj\service\BookService.java
+F:\IdeaWork\20200324-redis\src\main\java\com\chj\model\BookVo.java
+F:\IdeaWork\20200324-redis\src\main\java\com\chj\service\RedisService.java
+F:\IdeaWork\20200324-redis\src\main\java\com\chj\mapper\BookCategoryMapper.java
+F:\IdeaWork\20200324-redis\src\main\java\com\chj\WebApplication.java
+F:\IdeaWork\20200324-redis\src\main\java\com\chj\model\BookCategory.java
+F:\IdeaWork\20200324-redis\src\main\java\com\chj\config\RedisProperties.java
+F:\IdeaWork\20200324-redis\src\main\java\com\chj\mapper\BookCatMapper.java
+F:\IdeaWork\20200324-redis\src\main\java\com\chj\mapper\BookMapper.java
